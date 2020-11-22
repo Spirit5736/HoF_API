@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoF API", "HoF API.csproj", "{FB94A56B-E044-4267-AE93-2510FF29F112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB94A56B-E044-4267-AE93-2510FF29F112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB94A56B-E044-4267-AE93-2510FF29F112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB94A56B-E044-4267-AE93-2510FF29F112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB94A56B-E044-4267-AE93-2510FF29F112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {561951EC-F744-41EB-83D1-A7F03A2B0025}
+	EndGlobalSection
+EndGlobal
